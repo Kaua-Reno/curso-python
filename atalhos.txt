@@ -1,0 +1,5 @@
+Ctrl + shift + p = pesquisar
+
+Shift + alt + seta para cima ou para baixo = copia para cima ou para baixo
+
+pegar as configs(settings.json)
